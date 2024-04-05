@@ -13,10 +13,10 @@ import java.util.List;
  *
  * @author Best
  */
-@Named(value = "bean")
+@Named(value = "bean2")
 @RequestScoped
-public class Bean {
-
+public class Bean_2 {
+    
     private int nombre;
 
     public int getNombre() {
